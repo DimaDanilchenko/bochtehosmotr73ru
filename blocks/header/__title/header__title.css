@@ -9,5 +9,6 @@
   .header__title{
     font-size: 16px;
     line-height: 0;
+    margin-right: 10px;
   }
 }
