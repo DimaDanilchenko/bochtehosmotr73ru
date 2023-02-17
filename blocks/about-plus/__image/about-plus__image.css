@@ -3,3 +3,8 @@
   width: 920px;
   margin-top: 20px;
 }
+@media screen and (max-width: 425px) {
+  .about-plus__image{
+    max-width: calc(100% - 2* 10px);
+  }
+}
