@@ -1,7 +1,8 @@
 .lead__logo {
   max-width: 850px;
-  margin: 0;
+  margin: 0 auto;
   margin-top: 50px;
+  display: flex;
 }
 @media screen and (max-width: 425px) {
   .lead__logo{
