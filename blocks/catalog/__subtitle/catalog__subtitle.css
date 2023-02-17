@@ -12,3 +12,9 @@
   position: absolute;
   top: 180px;
 }
+@media screen and (max-width: 425px) {
+  .catalog__subtitle{
+   font-size: 14px;
+   top: 120px;
+  }
+}

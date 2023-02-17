@@ -7,3 +7,9 @@
   margin-top: 50px;
   justify-items: space-between;
 }
+@media screen and (max-width: 425px) {
+  .products{
+    width: calc(100% - 2*10px);
+   margin-top: 120px;
+  }
+}
