@@ -8,6 +8,7 @@
   text-align: center;
   margin-top: 90px;
   z-index: 2;
+  color: white;
 }
 @media screen and (max-width: 425px) {
   .product-selection__title{
@@ -15,6 +16,5 @@
     font-size: 26px;
 line-height: 1.5;
 font-weight: 700;
-color: white;
   }
 }
