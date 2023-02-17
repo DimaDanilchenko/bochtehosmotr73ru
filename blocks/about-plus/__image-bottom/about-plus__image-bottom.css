@@ -2,3 +2,11 @@
   max-width: 1150px;
   margin-bottom: 50px;
 }
+@media screen and (max-width: 320px) {
+  .about-plus__image-bottom{
+    width: calc(100% - 2*10px);
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+}

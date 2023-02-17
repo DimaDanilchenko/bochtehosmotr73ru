@@ -6,3 +6,10 @@
   margin-top: 30px;
   margin-bottom: 30px;
 }
+@media screen and (max-width: 320px) {
+  .container-plus__container{
+    width: calc(100% - 2*10px);
+    flex-direction: column;
+
+  }
+}

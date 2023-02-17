@@ -1,3 +1,9 @@
 .container-plus__image {
   width: 464px;
 }
+@media screen and (max-width: 320px) {
+  .container-plus__image{
+    width: calc(100% - 2*10px);
+
+  }
+}
