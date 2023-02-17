@@ -3,4 +3,5 @@
   flex-direction: column;
   align-items: center;
   background-image: url(../../image/photo1676627042.jpeg);
+  overflow: hidden;
 }
