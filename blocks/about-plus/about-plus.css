@@ -4,7 +4,7 @@
   margin-top: 60px;
 
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .about-plus{
     width: calc(100% - 2*10px);
   }

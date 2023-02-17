@@ -5,3 +5,12 @@
   display: flex;
   flex-direction: column;
 }
+@media screen and (max-width: 425px) {
+  .advantages__block{
+    width: 100%;
+    height: 100%;
+  }
+  .advantages__block:last-child{
+    margin-top: 20px;
+  }
+}

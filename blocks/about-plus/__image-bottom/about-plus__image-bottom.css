@@ -2,7 +2,7 @@
   max-width: 1150px;
   margin-bottom: 50px;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .about-plus__image-bottom{
     width: calc(100% - 2*10px);
     display: flex;

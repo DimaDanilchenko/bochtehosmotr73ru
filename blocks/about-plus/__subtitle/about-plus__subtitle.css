@@ -8,7 +8,7 @@
   color: inherit;
   margin-top: 20px;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .about-plus__subtitle{
     font-size: 16px;
   }

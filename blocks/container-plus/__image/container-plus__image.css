@@ -1,9 +1,11 @@
 .container-plus__image {
   width: 464px;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .container-plus__image{
     width: calc(100% - 2*10px);
-
+    display: flex;
+    margin: 0 auto;
+    margin-top: 20px;
   }
 }

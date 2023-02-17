@@ -9,7 +9,7 @@
   border-bottom: solid 1px rgb(172, 168, 168);
   padding-bottom: 30px;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .about-plus__title{
 
   }
