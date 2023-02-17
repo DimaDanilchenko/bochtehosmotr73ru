@@ -1,0 +1,6 @@
+.product-selection {
+  background-image: url(../../image/wd24_60x60.jpg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

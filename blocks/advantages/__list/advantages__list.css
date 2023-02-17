@@ -1,0 +1,26 @@
+.advantages__list {
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+  line-height: 1.2;
+  font-weight: 500;
+  text-align: inherit;
+  color: inherit;
+  list-style: none;
+  margin-top: 30px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+.advantages__list>li {
+  padding-left: 20px;
+  position: relative;
+  margin: 20px;
+}
+
+.advantages__list>li:before {
+  content: '✔';
+  position: absolute;
+  top: 0;
+  left: -10px;
+  color: black;
+}

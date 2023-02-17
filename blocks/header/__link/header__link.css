@@ -1,0 +1,7 @@
+.header__link {
+  text-decoration: none;
+  color: black;
+}
+.header__link:hover {
+  border-bottom: 1px solid black;
+}

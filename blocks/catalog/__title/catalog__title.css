@@ -1,0 +1,10 @@
+.catalog__title {
+  margin: 0;
+  font-size: 40px;
+  line-height: 1.2;
+  font-weight: 700;
+  text-align: inherit;
+  color: inherit;
+  position: absolute;
+  top: 120px;
+}

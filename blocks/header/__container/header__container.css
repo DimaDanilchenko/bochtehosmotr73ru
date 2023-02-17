@@ -1,0 +1,8 @@
+.header__container {
+  height: 86px;
+  width: 1150px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  opacity: 1;
+}

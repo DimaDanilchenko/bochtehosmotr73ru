@@ -1,0 +1,8 @@
+.catalog {
+  max-width: 1150px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+}

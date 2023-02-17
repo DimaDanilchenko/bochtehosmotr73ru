@@ -1,0 +1,9 @@
+.advantages__blocks {
+  width: 1150px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 50px;
+  margin-bottom: 90px;
+}

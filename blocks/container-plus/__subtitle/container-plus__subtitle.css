@@ -1,0 +1,9 @@
+.container-plus__subtitle {
+  margin: 0;
+  margin-top: 10px;
+  font-size: 20px;
+  line-height: 1.37;
+  font-weight: 400;
+  text-align: inherit;
+  color: inherit;
+}
