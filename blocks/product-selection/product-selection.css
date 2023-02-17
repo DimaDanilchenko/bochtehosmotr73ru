@@ -1,5 +1,6 @@
 .product-selection {
   background: url(../../image/photo1676626925.jpeg) no-repeat;
+  background-attachment: fixed;
   background-position:center;
   display: flex;
   flex-direction: column;
