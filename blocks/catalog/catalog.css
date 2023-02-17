@@ -8,8 +8,6 @@
 }
 @media screen and (max-width: 425px) {
   .catalog{
-    font-size: 16px;
-    line-height: 0;
-    margin-right: 10px;
+
   }
 }
