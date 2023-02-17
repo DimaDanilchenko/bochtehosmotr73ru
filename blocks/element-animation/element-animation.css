@@ -2,8 +2,8 @@
   opacity: 0;
   transform: translateX(20%);
 }
-.element-show {
+.element-animation.element-show {
   opacity: 1;
-  transition: all 0.7s;
+  transition: all 1s;
   transform: translateX(0%);
 }
