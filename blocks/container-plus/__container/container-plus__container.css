@@ -8,7 +8,7 @@
 }
 @media screen and (max-width: 425px) {
   .container-plus__container{
-    width: calc(100% - 2*10px);
+    width: calc(100% - 2*30px);
     flex-direction: column;
 
   }

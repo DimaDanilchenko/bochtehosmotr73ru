@@ -11,7 +11,10 @@
 }
 @media screen and (max-width: 425px) {
   .product-selection__title{
-    width: calc(100% - 2*10px);
-    font-size: 30px;
+    width: calc(100% - 2*30px);
+    font-size: 26px;
+line-height: 1.5;
+font-weight: 700;
+color: white;
   }
 }

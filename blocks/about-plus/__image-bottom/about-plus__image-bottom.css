@@ -4,7 +4,7 @@
 }
 @media screen and (max-width: 425px) {
   .about-plus__image-bottom{
-    width: calc(100% - 2*10px);
+    width: calc(100% - 2*30px);
     display: flex;
     margin: 0 auto;
     margin-bottom: 20px;

@@ -6,6 +6,6 @@
 }
 @media screen and (max-width: 425px) {
   .about-plus{
-    width: calc(100% - 2*10px);
+    width: calc(100% - 2*30px);
   }
 }

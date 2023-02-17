@@ -9,6 +9,6 @@
 }
 @media screen and (max-width: 425px) {
   .container-plus__subtitle{
-    text-align: center;
+    text-align: start;
   }
 }

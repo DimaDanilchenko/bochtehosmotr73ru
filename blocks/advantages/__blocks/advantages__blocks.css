@@ -10,7 +10,7 @@
 @media screen and (max-width: 425px) {
   .advantages__blocks{
     margin-top: 20px;
-    width: calc(100% - 2*10px);
+    width: calc(100% - 2*30px);
     flex-direction: column;
   }
 }
