@@ -44,6 +44,7 @@
 @import url(../blocks/container-plus/__container/container-plus__container.css);
 @import url(../blocks/container-plus/__title/container-plus__title.css);
 @import url(../blocks/container-plus/__subtitle/container-plus__subtitle.css);
+@import url(../blocks/container-plus/__title-image/container-plus__title-image.css);
 
 @import url(../blocks/advantages/advantages.css);
 @import url(../blocks/advantages/__title/advantages__title.css);
