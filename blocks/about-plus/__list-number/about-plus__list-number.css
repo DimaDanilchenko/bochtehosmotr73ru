@@ -1,0 +1,8 @@
+.about-plus__lists-number {
+  margin: 0 auto;
+  font-size: 20px;
+  line-height: 1.37;
+  font-weight: 400;
+  padding-left: 40px;
+  list-style-type: decimal;
+}

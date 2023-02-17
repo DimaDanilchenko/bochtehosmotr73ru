@@ -31,6 +31,10 @@
 @import url(../blocks/about-plus/__subtitle/about-plus__subtitle.css);
 @import url(../blocks/about-plus/__image/about-plus__image.css);
 @import url(../blocks/about-plus/__image-bottom/about-plus__image-bottom.css);
+@import url(../blocks/about-plus/__lists/about-plus__lists.css);
+@import url(../blocks/about-plus/__list/about-plus__list.css);
+@import url(../blocks/about-plus/__lists-number/about-plus__lists-number.css);
+@import url(../blocks/about-plus/__list-number/about-plus__list-number.css);
 
 @import url(../blocks/details/details.css);
 
