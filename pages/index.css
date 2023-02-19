@@ -84,6 +84,7 @@
 @import url(../blocks/product/__about-text/product__about-text.css);
 @import url(../blocks/product/__buy/product__buy.css);
 @import url(../blocks/product/__button/product__button.css);
+@import url(../blocks/product/__price/product__price.css);
 
 
 @import url(../blocks/summary/summary.css);

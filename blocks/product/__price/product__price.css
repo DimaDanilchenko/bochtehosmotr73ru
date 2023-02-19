@@ -1,0 +1,9 @@
+.product__price{
+  margin: 10px;
+  padding-top: 10px;
+}
+@media screen and (max-width: 425px) {
+  .product__price{
+    padding-top: 10px;
+  }
+}

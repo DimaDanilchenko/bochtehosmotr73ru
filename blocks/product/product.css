@@ -9,3 +9,10 @@
 .product:hover {
   border:1px solid grey;
 }
+
+@media screen and (max-width: 425px) {
+  .product{
+    width: 100%;
+    padding: 0;
+  }
+}

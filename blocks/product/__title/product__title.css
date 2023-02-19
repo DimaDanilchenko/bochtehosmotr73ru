@@ -5,3 +5,9 @@
   line-height: 1.37;
   opacity: 100%;
 }
+@media screen and (max-width: 425px) {
+  .product__title{
+    width: calc(100% - 10*2px);
+    margin: 0 auto;
+  }
+}
