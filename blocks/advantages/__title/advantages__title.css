@@ -8,14 +8,15 @@
   color: inherit;
   text-align: center;
 }
+
 @media screen and (max-width: 425px) {
-  .advantages__title{
+  .advantages__title {
     font-size: 30px;
     margin-top: 20px;
     font-size: 34px;
-line-height: 1.37;
-font-weight: 700;
-width: calc(100% - 2*15px);
-margin: 0 auto;
+    line-height: 1.37;
+    font-weight: 700;
+    width: calc(100% - 2*15px);
+    margin: 0 auto;
   }
 }
