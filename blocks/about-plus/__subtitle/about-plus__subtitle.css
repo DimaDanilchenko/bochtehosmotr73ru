@@ -1,14 +1,3 @@
-@keyframes show{
-  0%{
-    opacity: 0;
-  }
-  50%{
-    opacity: 0.5;
-  }
-  100%{
-    opacity: 1;
-  }
-}
 .about-plus__subtitle {
   margin: 0;
   font-family: 'Ebgaramond', 'Arial', 'sans-serif';
@@ -18,9 +7,6 @@
   text-align: inherit;
   color: inherit;
   margin-top: 20px;
-  animation: show 3s linear;
-  animation-fill-mode: forwards;
-  animation-iteration-count: 1;
 }
 
 @media screen and (max-width: 425px) {
