@@ -27,7 +27,7 @@ summary ~ * {
    padding:0 1em 0 1em;
 }
 details[open] summary ~ *{
-  animation: sweep 1.5s ease-in-out;
+  animation: sweep 2s ease-in-out;
 }
 @keyframes sweep {
   0%    {opacity: 0;}
