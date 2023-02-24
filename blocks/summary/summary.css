@@ -18,10 +18,11 @@ summary:before {
   height: 1em;
   content: "";
   position: absolute;
-  transition: transform 1s;
+  transition: all 1.5s;
 }
 details[open] > summary:before {
   transform: rotateZ(0deg);
+  transition: 0.5s;
 }
 summary ~ * {
    padding:0 1em 0 1em;
@@ -31,6 +32,7 @@ details[open] summary ~ *{
 }
 @keyframes sweep {
   0%    {opacity: 0;}
+  50%   {opacity: 0.5;}
   100%  {opacity: 1;}
 }
 summary:focus {
