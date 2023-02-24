@@ -11,6 +11,6 @@
   .header__container{
     width: 100%;
     justify-content: center;
-
+    margin-top: 10px;
   }
 }

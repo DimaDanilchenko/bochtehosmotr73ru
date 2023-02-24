@@ -7,3 +7,6 @@
   transition: all 1s;
   transform: translateX(0%);
 }
+.element-animation.element-show.lead__title{
+  opacity: 0.6;
+}
