@@ -8,13 +8,13 @@
   max-width: 748px;
   margin-top: 50px;
   color: white;
-  margin-bottom: 40px;
   opacity: 0.6;
 }
 @media screen and (max-width: 425px) {
   .lead__title{
-    font-size: 20px;
-    width: calc(100% - 2*30px);
-
+    font-size: 26px;
+    width: calc(100% - 2*15px);
+    text-align: left;
+    height: 100vh;
   }
 }

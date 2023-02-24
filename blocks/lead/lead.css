@@ -4,10 +4,4 @@
   align-items: center;
   background-image: url(../../image/photo1676627042.jpeg);
   overflow: hidden;
-  padding-bottom: 40px;
-}
-@media screen and (max-width: 425px) {
-  .lead{
-    height: 100vh;
-  }
 }
