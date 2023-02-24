@@ -4,9 +4,10 @@
   align-items: center;
   background-image: url(../../image/photo1676627042.jpeg);
   overflow: hidden;
+  min-height: 100vh;
 }
 @media screen and (max-width: 425px) {
   .lead{
-    height: 100vh;
+    min-height: 100vh;
   }
 }
