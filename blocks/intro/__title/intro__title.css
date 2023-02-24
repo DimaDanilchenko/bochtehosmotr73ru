@@ -6,6 +6,7 @@
   text-align: inherit;
   color: inherit;
   text-align: center;
+  color: white;
 }
 @media screen and (max-width: 425px) {
   .intro__title{

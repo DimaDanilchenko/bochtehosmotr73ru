@@ -21,7 +21,7 @@ summary:before {
   transition: all 1.5s;
 }
 details[open] > summary:before {
-  transform: rotateZ(0deg);
+  transform: rotateZ(270deg);
   transition: 0.5s;
 }
 summary ~ * {
