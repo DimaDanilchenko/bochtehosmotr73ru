@@ -55,6 +55,8 @@
 @import url(../blocks/product-selection/product-selection.css);
 @import url(../blocks/product-selection/__title/product-selection__title.css);
 @import url(../blocks/product-selection/__link/product-selection__link.css);
+@import url(../blocks/product-selection/__link-text/product-selection__link-text.css);
+@import url(../blocks/product-selection/__container/product-selection__container.css);
 
 @import url(../blocks/payment/payment.css);
 @import url(../blocks/payment/__blocks/payment__blocks.css);
@@ -85,6 +87,7 @@
 @import url(../blocks/product/__buy/product__buy.css);
 @import url(../blocks/product/__button/product__button.css);
 @import url(../blocks/product/__price/product__price.css);
+@import url(../blocks/rotation/rotation.css);
 
 
 @import url(../blocks/summary/summary.css);
