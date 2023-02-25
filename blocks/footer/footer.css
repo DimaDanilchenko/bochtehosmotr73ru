@@ -1,6 +1,7 @@
 .footer {
   background-color: black;
   margin-top: 60px;
+  background-image: url(../../image/photo1676627042.jpeg);
 }
 @media screen and (max-width: 425px) {
   .footer{
