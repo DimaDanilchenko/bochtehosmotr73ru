@@ -1,9 +1,15 @@
 .product-selection__link-text{
   position: absolute;
   color: #76461C;
-  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3);
-  font-size: 24px;
-  font-weight: 600;
-  line-height: 170px;
+  background: none;
+  border: none;
   z-index: 10;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 10;
+}
+.product-selection__link-text:hover{
+
 }

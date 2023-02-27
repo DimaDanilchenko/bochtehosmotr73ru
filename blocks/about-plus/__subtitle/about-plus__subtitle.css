@@ -7,6 +7,7 @@
   text-align: inherit;
   color: inherit;
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 @media screen and (max-width: 425px) {
