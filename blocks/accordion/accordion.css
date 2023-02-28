@@ -3,18 +3,36 @@
 }
 
 .accordion__heading {
-  display: block; position: relative; cursor: pointer;
-  padding: 10px 15px;
+  display: flex;
+  position: relative;
+  cursor: pointer;
   margin: 0;
-  background: white;
-  color: black
+  margin-top: 15px;
+  font-family: 'Ebgaramond', 'Arial', 'sans-serif';
+  font-size: 24px;
+  line-height: 1;
+  font-weight: 500;
+  text-align: inherit;
+  color: inherit;
+  border-bottom: solid 1px rgb(172, 168, 168);
+  padding-bottom: 30px;
+}
+@media screen and (max-width: 425px) {
+  .accordion__heading{
+    max-width: 300px;
+  }
 }
 
 .accordion__heading:after, .accordion__heading:before {
-  content: ""; position: absolute;
-  width: 12px; height: 3px;
-  top: 50%; right: 20px;
-  background: black;
+  right: .3em;
+  top: .4em;
+  color: transparent;
+  background: url("data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjM0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIzNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNOC41OSAxNi4zNGw0LjU4LTQuNTktNC41OC00LjU5TDEwIDUuNzVsNiA2LTYgNnoiLz48L3N2Zz4=") no-repeat 50% 50% / 1em 1em;
+  transform: rotateZ(90deg);
+  width: 1em;
+  height: 1em;
+  content: "";
+  position: absolute;
   transition: all 0.1s;
 }
 
@@ -30,7 +48,7 @@
 }
 
 .accordion__checkbox:checked~.accordion__heading:after {
-  transform: rotate(180deg);
+  transform: rotate(270deg);
 }
 
 .accordion__checkbox {
@@ -46,3 +64,4 @@
   max-height: 0; overflow: hidden; padding: 0 15px;
   transition: all 0.5s;
 }
+
