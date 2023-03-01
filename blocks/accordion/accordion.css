@@ -19,6 +19,7 @@
   margin-right: 20px;
   background-color: rgba(225, 202, 141, 0.08);
   width: calc(100% - 20*2px);
+  padding-top: 10px;
 }
 @media screen and (max-width: 425px) {
   .accordion__heading{
