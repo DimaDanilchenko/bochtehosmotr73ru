@@ -16,10 +16,11 @@
   color: inherit;
   border-bottom: solid 1px rgb(172, 168, 168);
   padding-bottom: 30px;
+  margin-right: 10px;
 }
 @media screen and (max-width: 425px) {
   .accordion__heading{
-    max-width: 300px;
+
   }
 }
 
