@@ -1,11 +1,11 @@
 .about-plus {
   max-width: 1150px;
   margin: 0 auto;
-  margin-top: 60px;
-
+  padding-top: 60px;
+  background-color: #fdfaf4;
 }
 @media screen and (max-width: 425px) {
   .about-plus{
-    width: calc(100% - 2*30px);
+    width: 100%;
   }
 }
