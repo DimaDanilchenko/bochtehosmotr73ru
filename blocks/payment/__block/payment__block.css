@@ -3,18 +3,29 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url(../../../image/photo_2023-02-28\ 21.12.20.jpeg);
+  background-image: url(../../../image/block_pay1.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  color: white;
+  color: black;
+}
+.payment__block4 {
+  width: 360px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(../../../image/block_pay2.jpeg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: black;
 }
 .payment__block2 {
   width: 360px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url(../../../image/photo_2023-02-28\ 21.12.25.jpeg);
+  background-image: url(../../../image/block_dostavka.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -29,9 +40,10 @@
   background-repeat: no-repeat;
   background-position: center;
 
+
 }
 @media screen and (max-width: 425px) {
-  .payment__block1,.payment__block2,.payment__block3{
+  .payment__block1,.payment__block2,.payment__block3,.payment__block4{
     width: 100%;
     margin-bottom: 20px;
   }
