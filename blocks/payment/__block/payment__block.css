@@ -35,10 +35,11 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url(../../../image/photo_2023-02-28\ 21.12.32.jpeg);
-  background-size: 70%;
+  background-image: url(../../../image/golden-correct-sign-for-best-quality-assurance-and-guarantee-product-iso-service-concept.jpg);
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  color: black
 
 
 }
